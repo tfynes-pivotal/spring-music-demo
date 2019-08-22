@@ -2,4 +2,4 @@
 applications:
 - name: tmfsm
   path: ./spring-music.war
-  instances: 2
+  instances: 1
